@@ -1,0 +1,6 @@
+Python is easy to learn.
+I am practicing Python programs.
+File handling is interesting.
+
+abc
+text

@@ -1,0 +1,3 @@
+Hello, I am learning Python.
+This is my first text file.
+I enjoy learning process.
