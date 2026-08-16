@@ -1,0 +1,5 @@
+#Write program to find the intersection of two sets
+s1 = set(map(int,input('Enter the 1st set elements:').split()))
+s2 = set(map(int,input('Enter the 2nd set elements:').split()))
+print('Intersection of set 1 and set 2 is ', s1 & s2)
+print('Intersection of set 1 and set 2 is', s1.intersection(s2))
